@@ -25,7 +25,7 @@
 #include <mgba-util/memory.h>
 #include <mgba-util/vfs.h>
 
-#define SAMPLES 1024
+#define SAMPLES 128
 #define RUMBLE_PWM 35
 
 static retro_environment_t environCallback;
